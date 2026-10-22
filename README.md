@@ -3,7 +3,7 @@ Purpose of these files is for enumeration of OSCP exam.
 # smb.sh
 * Can be run for unauth and auth mode. Unauth requires a domain name and ip address. 
 * Auth requires credentials.
-* Should be run everytime you get a new user.
+* Should be run everytime you get a new user, on every box, every time you get a new user.
 
 # ldap.sh
 * Can be run in unauth and auth mode.
